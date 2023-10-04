@@ -4,7 +4,7 @@
   "description": "Answers for Advent of Code 2022 | JS Solutions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon ./Day_2/solution.js"
   },
   "keywords": [],
   "author": "",
